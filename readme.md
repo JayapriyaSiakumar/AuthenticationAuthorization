@@ -1,4 +1,4 @@
-# 🥘Ecomm
+# 🥘 Auth
 
 A Authentication and Authorization API for managing products, built with Node.js, Express.js, and MongoDB. The app follows the MVC architecture and includes API documentation using Postman.
 
